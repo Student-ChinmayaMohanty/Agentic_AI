@@ -34,9 +34,6 @@ This project demonstrates how autonomous AI agents can **analyze, decide, and ac
 
 ---
 
-
----
-
 ## ⚙️ Installation
 
 ```bash
@@ -94,8 +91,6 @@ These agents:
 * 📊 Advanced dashboards
 * 🧠 Memory-based agents
 * 🌐 Deployment (Streamlit Cloud / Render)
-
----
 
 ---
 
